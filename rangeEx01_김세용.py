@@ -1,0 +1,16 @@
+# rangeEx01
+
+list01 = list(range(10))
+print(list01)
+list02 = list(range(1, 11))
+print(list02)
+list03 = list(range(0, 30, 5))
+print(list03)
+list04 = list(range(0, 10, 3))
+print(list04)
+list05 = list(range(0, -10, -1))
+print(list05)
+list06 = list(range(0))
+print(list06)
+list07 = list(range(1, 0))
+print(list07)
